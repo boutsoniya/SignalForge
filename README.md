@@ -46,9 +46,9 @@ Initial prototype targets:
 
 Vanilla HTML/CSS/JavaScript. No build step required. The intelligence layer is deliberately transparent/mock-data driven so the portfolio foregrounds product reasoning, UX, metrics, and trade-offs rather than pretending a black-box model is the product.
 
-## Run locally
+## Run 
 
-Open `app/index.html` in a browser.
+Open `https://signalforge-52lf.onrender.com/` in a browser.
 
 ## Portfolio positioning
 
