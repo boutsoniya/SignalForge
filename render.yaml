@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: signalforge
+    runtime: python
+    plan: free
+    region: singapore
+    buildCommand: ""
+    startCommand: "python -m http.server $PORT --directory app --bind 0.0.0.0"
+    autoDeploy: yes
